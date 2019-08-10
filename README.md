@@ -2,8 +2,7 @@
 
 # How To Run
 
-1. Clone this project here [https://danielcoker@bitbucket.org/danielcoker/ecom-app.git]
-
+1. Clone this project
 2. Run the command `php artisan serve`
 
 [Note] The repo does not contain the `vendor` folder, so you might want to copy that from your local machine.
