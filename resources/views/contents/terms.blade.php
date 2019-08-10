@@ -1,0 +1,185 @@
+@extends('layouts.main')
+@section('title', 'About')
+@section('content')
+    <section class="flex column center middle col-lg-6">
+        <div class="flex center middle col-lg-6 hero-2" style="background: url({{ URL::asset('./images/shoes.jpg') }}) center center; background-size: 100% auto;">
+            <h1 class="flex center middle">Terms and Conditions of use</h1>
+        </div>
+        <div class="flex center col-lg-4">
+            <div class="flex middle column center col-lg-5 contents-c">
+               <div id="privacy">
+                    <h5 class=""> PRIVACY POLICY </h5>
+                    <p>
+                        Thank you for accessing shopaholiqstores.com’s website operated by shopaholiq Nigeria Enterprise. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy. This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy. Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. We Will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected. You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
+                    </p>
+                    <h5 class=""> Collection of personal information </h5>
+                    <p>
+We may collect various pieces of information if you seek to place an order for a product with us on the Site. We collect, store and process your data for processing your purchase on the Site and any possible later claims, and to provide you with our services. We may collect personal information including, but not limited to, your title, name, gender, date of birth, email address, postal address, delivery address (if different), telephone number, mobile number, payment details, payment card details or bank account details. We will use the information you provide to enable us to process your orders and to provide you with the services and information offered through our website and which you request. Further, we will use the information you provide to administer your account with us; verify and carry out financial transactions in relation to payments you make online; audit the downloading of data from our website; improve the layout and/or content of the pages of our website and customize them for users; identify visitors on our website; carry out research on our users' demographics; send you information we think you may find useful or which you have requested from us, including information about our products and services, provided you have indicated that you have not objected to being contacted for these purposes. Subject to obtaining your consent we may contact you by email with details of other products and services. If you prefer not to receive any marketing communications from us, you can opt out at any time. We may pass your name and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier). Your actual order details may be stored with us but for security reasons cannot be retrieved directly by us. However, you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault.
+For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition. We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance. 
+
+We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.
+</p>
+<h5 class=""> Cookies </h5>
+<p>
+The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the use of the 'basket' functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to http://www.allaboutcookies.org or to find out about removing them from your browser, go to http://www.allaboutcookies.org/manage-cookies/index.html. 
+</p>
+<h5 class=""> Security </h5>
+<p>
+We have in place appropriate technical and security measures to prevent unauthorized or unlawful access to or accidental loss of or destruction or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. When we collect payment card details electronically, we use encryption by using Secure Socket Layer (SSL) coding. While we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details. You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorized access to your password and to your computer.
+</p>                  
+</div>
+<div id="disclaimers">
+<h5 class=""> Disclaimer </h5>
+<p>
+If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes.
+</p>
+</div>
+
+<div id="terms">
+    <h5 class=""> TERMS & CONDITIONS </h5>
+    <p>
+    This document is an electronic record in terms of National Information Technology Development Agency Act, 2014 and rules there under as applicable and the amended provisions pertaining to electronic records in various statutes as amended by the National Information Technology Development Agency Act, 2014. This electronic record is generated by a computer system and does not require any physical or digital signatures.
+    Welcome to the shopaholiqstores.com website (the "Site"). These terms & conditions ("Terms and Conditions") apply to the Site, and all of its divisions, subsidiaries, and affiliate operated Internet sites which reference these Terms and Conditions. This website is owned and operated shopaholiq Nigeria Enterprise . For the purposes of this website, "seller", "we", "us" and "our" all refer shopaholiqstores.com
+    YOU ACCEPT THESE TERMS OF USE BY CLICKING THE "REGISTER" BUTTON WHEN REGISTERING YOUR ACCOUNT AND BY ACCESSING OR OTHERWISE BROWSING THE SITE INDICATES YOUR AGREEMENT TO ALL THE TERMS AND CONDITIONS IN THIS AGREEMENT, SO PLEASE READ THIS AGREEMENT CAREFULLY BEFORE PROCEEDING
+    </p>
+    <h5 class=""> USE OF THE SITE </h5>
+    <P>
+    Use of the shopaholiqstores.com Website is available only to persons who can form legally binding contracts under Nigerian governing laws. If you are a minor i.e. under the age of 18 years, you shall not register as a member of shopaholiqstores.com and shall not transact or use shopaholiqstores.com website. As a minor if you wish to use or transact on shopaholiqstores.com, such use or transaction may be made by your legal guardian or parents who have registered as users of shopaholiqstores.com. Both parties agree that this website may only be used in accordance with these Terms and Conditions of Use. If you do not agree with the Terms and Conditions of Use or do not wish to be bound by them, you agree to refrain from using this website. We grant you a non-transferable, revocable and non-exclusive license to use this Site, in accordance with the Terms and Conditions of Use, for such things as: shopping for personal items sold on the site, gathering prior information regarding our products and services and making purchases. Commercial use or use on behalf of any third party is prohibited, except as explicitly permitted by us in advance. If you use shopaholiqstores.com you shall be responsible for maintaining the confidentiality of your User ID and Password and you shall be responsible for all activities that occur under your User ID and Password. You agree that if you provide any information that is untrue, inaccurate, not current or incomplete that shopaholiqstores.com has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, or not in accordance with the this Terms of Use, shopaholiqstores.com has the right to indefinitely suspend or terminate or block access of your membership with shopaholiqstores.com and refuse to provide you with access to the Website. 
+When You use the Website or send emails or other data, information or communication to shopaholicstores.com, You agree and understand that You are communicating with shopaholiqstores.com through electronic records and You consent to receive communications via electronic records from shopaholiqstores.com periodically and as and when required. Shopaholiqstores.com may communicate with you by email or by such other mode of communication, electronic or otherwise.
+You accept that the information contained in this website is provided “as is, where is”, is intended for information purposes only and that it is subject to change without notice. Although we take reasonable steps to ensure the accuracy of information and we believe the information to be reliable when posted, it should not be relied upon and it does not in any way constitute either a representation or a warranty or a guarantee.
+Product representations expressed on this Site are those of the vendor and are not made by us. Submissions or opinions expressed on this Site are those of the individual posting such content and may not reflect our opinions.
+Membership on shopaholiqstores.com is free and  does not charge any fee for browsing and buying on shopaholiqstores.com. However shopaholiqstores.com reserves the right to charge fee and change its policies from time to time. In particular, shopaholiqstores.com may at its sole discretion introduce new services and modify some or all of the existing services offered on shopaholiqstores.com. In such an event shopaholiqstores.com reserves, without notice to You, the right to introduce fees for the new services offered or amend/introduce fees for existing services, as the case may be. Changes to the Fee and related policies shall automatically become effective immediately once implemented on shopaholiqstores.com. Unless otherwise stated, all fees shall be quoted in Nigerian Naira. You shall be solely responsible for compliance of all applicable laws including those in Nigeria for making payments to shopaholiqstores.com.
+Use of shopaholiqstores.com Website www.shopaholiqstores.com
+You agree, undertake and confirm that your use of shopaholiqstores.com shall be strictly governed by the following binding principles:
+You shall not host, display, upload, modify, publish, transmit, update or share any information that: 
+(a) belongs to another person and to which You does not have any right to. 
+(b) is grossly harmful, harassing, blasphemous, defamatory, obscene, pornographic, paedophilic, libellous, invasive of another's privacy, hateful, or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner whatever; or unlawfully threatening or unlawfully harassing including but not limited to "indecent representation of women" or misleading in any way. 
+(c) is patently offensive to the online community, such as sexually explicit content, or content that promotes obscenity, pedophilia, racism, bigotry, hatred or physical harm of any kind against any group or individual; 
+(d) harasses or advocates harassment of another person; 
+(e) involves the transmission of "junk mail," "chain letters," or unsolicited mass mailing or "spamming"; 
+(f) promotes illegal activities or conduct that is abusive, threatening, obscene, defamatory or libelous; 
+(g) infringes upon or violates any third party's rights [(including, but not limited to, intellectual property rights, rights of privacy (including without limitation unauthorized disclosure of a person's name, email address, physical address or phone number) or rights of publicity]; 
+(h) promotes an illegal or unauthorized copy of another person's copyrighted work (see "Copyright complaint" below for instructions on how to lodge a complaint about uploaded copyrighted material), such as providing pirated computer programs or links to them, providing information to circumvent manufacture-installed copy-protect devices, or providing pirated music or links to pirated music files; 
+(i) contains restricted or password-only access pages, or hidden pages or images (those not linked to or from another accessible page); 
+(j) provides material that exploits people in a sexual, violent or otherwise inappropriate manner or solicits personal information from anyone; 
+(k) provides instructional information about illegal activities such as making or buying illegal weapons, violating someone's privacy, or providing or creating computer viruses;
+(l) contains video, photographs, or images of another person age 18 or older without his or her express written consent and permission or those of any minor (regardless of whether you have consent from the minor or his or her legal guardian).
+(m) tries to gain unauthorized access or exceeds the scope of authorized access (as defined herein and in other applicable Codes of Conduct or End User Access and License Agreements) to the Sites or to profiles, blogs, communities, account information, bulletins, friend request, or other areas of the Sites or solicits passwords or personal identifying information for commercial or unlawful purposes from other users;
+(n) engages in commercial activities and/or sales without shopaholiqstores.com's prior written consent such as contests, sweepstakes, barter, advertising and pyramid schemes, or the buying or selling of "virtual" items related to the Sites. Throughout this Terms of Use, shopaholiqstores.com "prior written consent" means a communication coming from shopaholiqstores.com Legal department, specifically in response to your request, and specifically addressing the activity or conduct for which you seek authorization;
+(o) solicits gambling or engages in any gambling activity which shopaholiqstores.com, in its sole discretion, believes is or could be construed as being illegal; 
+(p) interferes with another user's use and enjoyment of shopaholiqstores.com Website or any other individual's user and enjoyment of similar services; 
+(q) refers to any website or URL that, in the sole discretion of shopaholiqstores.com, contains material that is inappropriate for the shopaholiqstores.com Website or any other Website, contains content that would be prohibited or violates the letter or spirit of these Terms of Use.
+(r)harm minors in any way;
+(s) infringes any patent, trademark, copyright or other proprietary rights or  third party’s trade secrets or rights of publicity or privacy or shall not be fraudulent or involve the sale of counterfeit or stolen items; 
+(t) violates any law for the time being in force; 
+(u) deceives or misleads the addressee/ users about the origin of such messages or communicates any information which is grossly offensive or menacing in nature;
+(v) impersonate another person; 
+(w) contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer resource; or contains any Trojan horses, worms, time bombs, cancelbots, easter eggs or other computer programming routines that may damage, detrimentally interfere with, diminish value of, surreptitiously intercept or expropriate any system, data or personal information; 
+(x) threatens the unity, integrity, defense, security or sovereignty of The Federal Republic of Nigeria, friendly relations with foreign states, or public order or causes incitement to the commission of any cognizable offence or prevents investigation of any offence or is insulting any other nation. 
+(y) shall not be false, inaccurate or misleading; 
+(z) shall not, directly or indirectly, offer, attempt to offer, trade or attempt to trade in any item, the dealing of which is prohibited or restricted in any manner under the provisions of any applicable law, rule, regulation or guideline for the time being in force. 
+
+You shall not use any “deep-link”, “page-scrape”, “robot”, “spider” or other automatic device, program, algorithm or methodology, or any similar or equivalent manual process, to access, acquire, copy or monitor any portion of the Website or any Content, or in any way reproduce or circumvent the navigational structure or presentation of the Website or any Content, to obtain or attempt to obtain any materials, documents or information through any means not purposely made available through the Website. .com reserves the right to bar any such activity.
+
+You shall not attempt to gain unauthorized access to any portion or feature of shopaholiqstores.com website, or any other systems or networks connected to shopaholiqstores.com Website or to any shopaholiqstores.com’s server, computer, network, or to any of the services offered on or through shopaholiqstores.com Website, by hacking, password “mining” or any other illegitimate means.
+
+You shall not probe, scan or test the vulnerability of shopaholiqstores.com website or any network connected to shopaholiqstores.com website nor breach the security or authentication measures on shopaholiqstores.com website or any network connected to shopaholiqstores.com Website. You may not reverse look-up, trace or seek to trace any information on any other user of or visitor to shopaholiqstores.com Website, or any other customer of shopaholiqstores.com, including any shopaholiqstores.com account not owned by you, to its source, or exploit shopaholiqstores.com Website or any service or information made available or offered by or through shopaholiqstores.com Website, in any way where the purpose is to reveal any information, including but not limited to personal identification or information, other than your own information, as provided for by shopaholiqstores.com Website. You agree that you will not take any action that imposes an unreasonable or disproportionately large load on the infrastructure of shopaholiqstores.com Website or shopaholiqstores.com’s systems or networks, or any systems or networks connected to shopaholiqstores.com. You agree not to use any device, software or routine to interfere or attempt to interfere with the proper working of the Website or any transaction being conducted on the Website, or with any other person’s use of the Website.
+
+You may not forge headers or otherwise manipulate identifiers in order to disguise the origin of any message or transmittal you send to shopaholiqstores.com on or through the Website or any service offered on or through the Website. You may not pretend that you are, or that you represent, someone else, or impersonate any other individual or entity.
+
+You may not use the Website or any Content for any purpose that is unlawful or prohibited by these Terms of Use, or to solicit the performance of any illegal activity or other activity which infringes the rights of shopaholiqstores.com or others.
+
+Solely to enable shopaholiqstores.com to use the information you supply us with, so that we are not violating any rights you might have in Your Information, you agree to grant us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub-licensable (through multiple tiers) right to exercise the copyright, publicity, database rights or any other rights you have in Your Information, in any media now known or not currently known, with respect to Your Information. shopaholiqstores.com will only use Your Information in accordance with the terms of use and shopaholiqstores.com’s Privacy Policy.
+
+From time to time, you shall be responsible for providing information relating to the items or services proposed to be sold by you. In this connection, you undertake that all such information shall be accurate in all respects. You shall not exaggerate or over emphasize the attributes of such items or services so as to mislead other Users in any manner.
+
+You shall not engage in advertising to, or solicitation of, other users of shopaholiqstores.com to buy or sell any products or services, including, but not limited to, products or services related being displayed on shopaholiqstores.com or related to shopaholiqstores.com. In order to protect our users from such advertising or solicitation, shopaholiqstores.com reserves the right to restrict the number of messages or emails which a user may send to other users in any 24-hour period which shopaholiqstores.com deems appropriate in its sole discretion.12. You understand that shopaholiqstores.com has the right at all times to disclose any information (including the identity of the persons providing information or materials on the shopaholiqstores.com Website) as necessary to satisfy any law, regulation or valid governmental request. This may include, without limitation, disclosure of the information in connection with investigation of alleged illegal activity or solicitation of illegal activity or in response to a lawful court order or subpoena. In addition, we can (and you hereby expressly authorize us to) disclose any information about you to law enforcement or other government officials, as we, in our sole discretion, believe necessary or appropriate in connection with the investigation and/or resolution of possible crimes, especially those that may involve personal injury.
+
+shopaholiqstores.com reserves the right, but has no obligation, to monitor the materials posted on shopaholiqstores.com website. shopaholiqstores.com shall have the right to remove or edit any Content that in its sole discretion violates, or is alleged to violate, any applicable law or either the spirit or letter of these Terms of Use. Notwithstanding this right of shopaholiqstores.com, YOU REMAIN SOLELY RESPONSIBLE FOR THE CONTENT OF THE MATERIALS YOU POST ON THE SHOPAHOLIQSTORES.COM’S WEBSITE AND IN YOUR PRIVATE MESSAGES. Please be advised that such Content posted does not necessarily reflect the views of shopaholiqstores.com. In no event shall shopaholiqstores.com assume or have any responsibility or liability for any Content posted or for any claims, damages or losses resulting from use of Content and/or appearance of Content on shopaholiqstores.com. You hereby represent and warrant that you have all necessary rights in and to all Content you provide and all information it contains and that such Content shall not infringe any proprietary or other rights of third parties or contain any libelous, tortious, or otherwise unlawful information
+
+Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through shopaholiqstores.com, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser. shopaholiqstores.com shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such advertisers on shopaholiqstores.com.
+
+It is possible those other users (including unauthorized users or “hackers”) may post or transmit offensive or obscene materials on shopaholiqstores.com and that you may be involuntarily exposed to such offensive and obscene materials. It also is possible for others to obtain personal information about you due to your use of shopaholiqstores.com, and that the recipient may use such information to harass or injure you. shopaholiqstores.com does not approve of such unauthorized uses but by using the shopaholiqstores.com Website you acknowledge and agree that shopaholiqstores.com is not responsible for the use of any personal information that you publicly disclose or share with others on shopaholiqstores.com. Please carefully select the type of information that you publicly disclose or share with others on shopaholiqstores.com.
+
+shopaholiqstores.com shall have all the rights to take necessary action and claim damages that may occur due to your involvement/participation in any way on your own or through group/s of People, intentionally or unintentionally in DoS/DDoS (Distributed Denial of Services).
+    </P>
+    <h5>APPLICABLE LAW AND JURISDICTION</h5>
+    <p>
+    These Terms and Conditions of Use shall be interpreted and governed by the laws in force in the Federal Republic of Nigeria. Subject to the Arbitration section below, each party hereby agrees to submit to the jurisdiction of the courts of Nigeria and to waive any objections based upon venue.
+    </p>
+    <h5>TERMINATION</h5>
+    <P>
+    In addition to any other legal or equitable remedies, we may, without prior notice to you, immediately terminate the Terms and Conditions of Use or revoke any or all of your rights granted under the Terms and Conditions of Use.
+Upon any termination of this Agreement, you shall immediately cease all access to and use of the Site and we shall, in addition to any other legal or equitable remedies, immediately revoke all password(s) and account identification issued to you and deny your access to and use of this Site in whole or in part.
+Any termination of this agreement shall not affect the respective rights and obligations (including without limitation, payment obligations) of the parties arising before the date of termination. You furthermore agree that the Site shall not be liable to you or to any other person as a result of any such suspension or termination.
+If you are dissatisfied with the Site or with any terms, conditions, rules, policies, guidelines, or practices of shopaholiq Nigeria Enterprise in operating the Site, your sole and exclusive remedy is to discontinue using the Site.
+    </P>
+    <h5>MISCELLANEOUS PROVISIONS</h5>
+    <p>
+    You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
+Assigning or sub-contracting any of your rights or obligations under these Terms and Conditions of Use to any third party is prohibited unless agreed upon in writing by the seller.
+We reserve the right to transfer, assign or sub-contract the benefit of the whole or part of any rights or obligations under these Terms and Conditions of Use to any third party.
+    </p>
+    <h5>CONTENT POSTED ON SITE</h5>
+    <p>All text, graphics, user interfaces, visual interfaces, photographs, trademarks, logos, sounds, music, artwork and computer code (collectively, “Content”), including but not limited to the design, structure, selection, coordination, expression, “look and feel” and arrangement of such Content, contained on shopaholiqstores.com  is owned, controlled or licensed by or to shopaholicstores.com, and is protected by trade dress, copyright, patent and trademark laws, and various other intellectual property rights and unfair competition laws.
+
+Except as expressly provided in these Terms of Use, no part of shopaholiqstores.com and no Content may be copied, reproduced, re-published, uploaded, posted, publicly displayed, encoded, translated, transmitted or distributed in any way (including “mirroring”) to any other computer, server, website or other medium for publication or distribution or for any commercial enterprise, without express prior written consent.
+
+You may use information on shopaholiqstores.com products and services purposely made available by shopaholiqstores.com for downloading from the Site, provided that you (1) not remove any proprietary notice language in all copies of such documents, (2) use such information only for your personal, non-commercial informational purpose and do not copy or post such information on any networked computer or broadcast it in any media, (3) make no modifications to any such information, and (4) not make any additional representations or warranties relating to such documents.
+
+You shall be responsible for any notes, messages, e-mails, billboard postings, photos, drawings, profiles, opinions, ideas, images, videos, audio files or other materials or information posted or transmitted to the Sites (collectively, "Content"). Such Content will become the property of shopaholiqstores.com  and you grant shopaholiqstores.com  the worldwide, perpetual and transferable rights in such Content. 
+</p>
+<h5>TERMS AND CONDITION OF SALE</h5>
+<h6>GENERAL</h6>
+<p>
+You confirm that you are at least 18 years of age or are accessing the Site under the supervision of a parent or legal guardian. You agree that if you are unsure of the meaning of any part of the Terms and Conditions of Sale, you will not hesitate to contact us for clarification prior to making a purchase.
+These Terms and Conditions of Sale fully govern the sale of goods and services purchased on this Site. No extrinsic evidence, whether oral or written, will be incorporated.
+</p>
+<h6 id="payment">PAYMENT AND PRICING</h6>
+<p>We are determined to provide the most accurate pricing information on the Site to our users; however, errors may still occur, such as cases when the price of an item is not displayed correctly on the website. As such, we reserve the right to refuse or cancel any order. In the event that an item is mispriced, we may, at our own discretion, either contact you for instructions or cancel your order and notify you of such cancellation.
+We shall have the right to refuse or cancel any such orders whether or not the order has been confirmed and your credit/debit card charged. In the event that we are unable to provide the services, we will inform you of this as soon as possible. A full refund will be given where you have already paid for the products.
+Name of bank Diamond bank
+Acc name: shopaholiq nig ent
+Account number: 0093031269
+NB: Please never pay to any person account claiming to represent us.
+</p>
+<p>
+This Site is only for delivery of products to customers within Nigeria with time we would cover worldwide. We make every effort to deliver goods within the estimated timescales set out on our Site; however delays are occasionally inevitable due to unforeseen factors. We shall be under no liability for any delay or failure to deliver the products within the estimated timescales where they did not occur due to our fault or negligence.
+You agree not to hold the seller liable for any delay or failure to deliver products or otherwise perform any obligation as specified in these Terms and Conditions of Sale if the same is wholly or partly caused whether directly or indirectly by circumstances beyond our reasonable control.
+</p>
+<h6 id="return">RETURN POLICY</h6>
+<P>
+Our Return Policy is as contained in the document titled “Return Policy” on our Site.
+RISK OF LOSS
+All items purchased from shopaholiqstorea.com are made pursuant to a shipment contract. This means that the Risk of Loss shall remain with shopaholicstores.com until the item is transferred to You. In the event that the items are damaged after receipt, the risk falls on the customer.
+</P>
+<h6>OUR CONTACT</h6>
+<P>
+Please send any questions or comments (including all inquiries unrelated to copyright infringement) regarding this Site to info@shopaholiqstores.com or to our office at 16 Salvation Avenue, Ada George, Port Harcourt.
+Hotline: +2348128401308 +2348188280645
+</P>
+<h6>Shopaholiqstores.com’s Delivery and Returns</h6>
+<p>
+We hope you love shopping with shopaholiqstores.com . Here are our delivery and returns policies to help make sure we meet your expectations. 
+Shipping and Delivery
+Shipping and Delivery is the charge for internet order processing, item selection, packaging, transport and handling. We don’t guarantee delivery times, but we do our best to provide accurate estimates.
+Deliveries occur From Monday To Saturday. Shipping and Delivery charges are subject to change and are determined when you order. Estimated delivery time is Dependent on When Order is Placed. Orders you place on shopaholiq late on saturday or on sunday will not be processed until Monday. Charges may be added to orders with Priority.
+Delivery addresses outside Lagos add additional charge for standard Shipping & Delivery. Orders arrive in 5 to 7 business days.
+                                   Shipping and Delivery
+  	STANDARD
+5—7 DAY SHIPPING 	         PRIORITY
+2—3 DAY SHIPPING 	
+</p>
+<h6>RETURNS AND REPLACEMENTS</h6>
+<P>
+We want you to be completely happy with your  order. If for any reason you are not satisfied, we will gladly accept your timely return of unworn, unwashed, or defective Products. Used products cannot be returned unless defective. Returned Products should include the vendor packaging and tags and be in the same condition as when it was received. A pickup and/or restock fee may apply. products must be returned within 7 days of receipt of products.
+Returning Products by Mail
+On the back of the packing slip enclosed with your  order, please note the reason(s) for return and whether you wish to exchange the item(s) or receive a credit/refund (depending on the original form of payment).
+Enclose the return section of the packing slip with your item(s). Please use one of the return labels provided on the front of your packing slip to ensure proper return address and credit information. 
+Please allow 10 to 14 days for  shopaholiq Nigeria Enterprise process your return.
+</P>
+</div>
+            </div>
+        </div>
+    </section>
+@endsection

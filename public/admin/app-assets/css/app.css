@@ -1,0 +1,9 @@
+@import url('bootstrap-extended.css');
+@import url('colors.css');
+@import url('components.css');
+
+.login-logo {
+    width: 200px;
+    height: 80px;
+    object-fit: contain;
+}
