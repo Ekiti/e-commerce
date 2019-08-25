@@ -23,7 +23,7 @@ class verifypaymentController extends Controller
 
     public function vfy($ref)
     {
-        $paystack = new Paystack('sk_live_7d14b6fc0db3bcd363c9ecd0acd479e17823b61f');
+        $paystack = new Paystack('sk_live_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
         
         $trx = $paystack->transaction->verify(['reference'=>$ref]);
      
